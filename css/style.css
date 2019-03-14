@@ -1,0 +1,160 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: #0a2345;
+}
+
+.fa-bars {
+    font-size: 21px;
+    color: #2a5ea4;
+}
+
+.vh {
+    height: 60vh;
+}
+
+.banner {}
+
+.banner span,
+.headphone span,
+.loat span {
+    color: #2a5da3;
+    font-size: 48px;
+}
+
+.banner h1,
+.headphone h1,
+.loat h1 {
+    color: #ffffff;
+    font-size: 48px;
+}
+
+.banner h6 {
+    color: #2e66b2;
+    font-size: 18px;
+    padding: 20px 0;
+}
+
+.banner .btn,
+.headphone .btn {
+    border-radius: 20px;
+    background: none;
+    color: #fff;
+    border: 1px solid #2a5da3;
+}
+
+.mbimg {
+    width: 100%;
+}
+
+.headphone {
+    background: url(../img/headphone.png);
+    background-repeat: no-repeat;
+    padding: 125px 0;
+    background-position-x: center;
+    background-position: left;
+    background-size: 50%;
+}
+
+.headphone h1,
+.headphone span {
+    font-size: 34px;
+}
+
+.headphone h6 {
+    color: #66778e;
+    text-align: justify;
+    padding: 15px 0;
+}
+
+.loat img {}
+
+.loat {}
+
+.loat .col-12 img {}
+
+.loat h2 {
+    font-size: 25px;
+    color: #fff;
+}
+
+.loat p {
+    font-size: 14px;
+    color: #fff;
+}
+
+.power {
+    background: url(../img/mediaplayer.png);
+    background-position: right;
+    background-repeat: no-repeat;
+    padding: 100px 0;
+    background-size: 600px;
+}
+
+.power h2 {
+    color: #fff;
+}
+
+.power p {
+    color: #fff;
+}
+
+.discover {
+    background: #030810;
+    padding: 50px 0;
+}
+
+.discover h1 {
+    text-align: center;
+    color: #fff;
+}
+
+.discover p {
+    text-align: center;
+    color: #fff;
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+.mobile {}
+
+.mobile img {
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+}
+
+.mobile .btn {
+    margin: 0 auto;
+    display: block;
+    background: none;
+    color: #fff;
+    border: 2px solid #14396a;
+    border-radius: 15px;
+}
+
+.foot {
+    background: #030810;
+}
+
+.foot ul {
+    margin: 0;
+    list-style: none;
+}
+
+.foot ul li {
+    display: inline-block;
+    padding: 0 10px;
+    float: left;
+}
+
+.foot ul li a {}
+
+.foot p {
+    float: right;
+    color: #fff;
+}
+
+.foot .container {
+    border-top: 1px solid #14396a;
+}

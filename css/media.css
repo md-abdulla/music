@@ -1,0 +1,59 @@
+@media(max-width: 1199px) {}
+
+@media(max-width: 991px) {}
+
+@media(max-width: 767px) {
+    .banner h1,
+    .headphone h1,
+    .loat h1 {
+        color: #ffffff;
+        font-size: 35px;
+    }
+    .banner span,
+    .headphone span,
+    .loat span {
+        color: #2a5da3;
+        font-size: 35px;
+    }
+}
+
+@media(max-width: 575px) {
+    .banner h1,
+    .headphone h1,
+    .loat h1 {
+        color: #ffffff;
+        font-size: 18px;
+    }
+    .banner span,
+    .headphone span,
+    .loat span {
+        color: #2a5da3;
+        font-size: 25px;
+    }
+    .discover h1 {
+        text-align: center;
+        color: #fff;
+        font-size: 20px;
+    }
+    .loat h2 {
+        font-size: 20px;
+        color: #fff;
+    }
+    .power h2 {
+        color: #fff;
+        font-size: 25px;
+    }
+    .heading,
+    .banner,
+    .headphone,
+    .loat,
+    .power,
+    .discover,
+    .foot {
+        width: 542px;
+    }
+    .mbimg {
+        width: 543px;
+        height: 300px;
+    }
+}
